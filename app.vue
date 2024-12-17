@@ -24,7 +24,11 @@ const sites = ref([
   { url: 'https://erp1.vylaris.online', status: 'checking' },
   { url: 'https://astuc.org', status: 'checking' },
   { url: 'https://app.gestoflex.com', status: 'checking' },
-  { url: 'https://tst.gestoflex.com', status: 'checking' },
+  { url: 'https://tst.app.gestoflex.com', status: 'checking' },
+  { url: 'https://tst-erp.vylaris.online/', status: 'checking' },
+  { url: 'https://tst.blegur.vylaris.online', status: 'checking' },
+  { url: 'https://tst-eirl.vylaris.online/', status: 'checking' },
+
   { url: 'https://mdsmindset.com', status: 'checking' },
 ]);
 
