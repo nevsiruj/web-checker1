@@ -26,7 +26,7 @@ const sites = ref([
   { url: 'https://app.gestoflex.com', status: 'checking' },
   { url: 'https://tst.app.gestoflex.com', status: 'checking' },
   { url: 'https://tst-erp.vylaris.online/', status: 'checking' },
-  { url: 'https://tst.blegur.vylaris.online', status: 'checking' },
+  { url: 'https://tst.blegur.vylaris.online/api/swagger/index.html', status: 'checking' },
   { url: 'https://tst-eirl.vylaris.online/', status: 'checking' },
   { url: 'https://mdsmindset.com', status: 'checking' },
 ]);
