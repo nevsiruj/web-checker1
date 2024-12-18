@@ -31,6 +31,7 @@ const sites = ref([
   { url: 'https://mdsmindset.com', status: 'checking' },
 ]);
 
+
 // Función para verificar el estado de una URL a través del endpoint
 const checkStatus = async (index) => {
   sites.value[index].status = 'checking';
