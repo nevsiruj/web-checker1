@@ -29,6 +29,7 @@ const sites = ref([
   { url: 'https://tst.blegur.vylaris.online/api/swagger', status: 'checking' },
   { url: 'https://tst-eirl.vylaris.online/', status: 'checking' },
   { url: 'https://mdsmindset.com', status: 'checking' },
+  { url: 'https://calendarschedule.vylaris.online/reservations', status: 'checking' },
 ]);
 
 
